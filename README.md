@@ -25,3 +25,23 @@ To run the notebook, you need to install the following Python libraries:
 ```bash
 pip install numpy matplotlib tensorflow scikit-learn
 
+🚀 Getting Started
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/deep-learning-assignment1.git
+Navigate to the folder:
+
+bash
+Copy
+Edit
+cd deep-learning-assignment1
+Open the notebook:
+
+bash
+Copy
+Edit
+jupyter notebook Sudhanshu_Pendor_DeepLearningLabAssignment_1.ipynb
+
